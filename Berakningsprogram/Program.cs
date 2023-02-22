@@ -27,7 +27,6 @@
                     double Y = double.Parse(Console.ReadLine());
                     Console.WriteLine($"{X} * {Y} = {X * Y}");
                 }
- 
                 else if (command == "hjälp")
                 {
                     Console.WriteLine($"plus - addera två tal");
